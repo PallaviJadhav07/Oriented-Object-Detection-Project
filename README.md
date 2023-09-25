@@ -1,6 +1,7 @@
                                     Oriented Object Detection Challenge Summary Report
 
 Candidate Name: Pallavi Jadhav
+              
                 pallavi.jadhav27@gmail.com
 
 Date: 25th September 2023
